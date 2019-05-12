@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 260.892 78.402">
+  <defs>
+    <style>
+      .cls-1, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: url(#pattern);
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-6, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        font-size: 54px;
+        font-family: Teko-Medium, Teko;
+        font-weight: 500;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+        stroke-width: 6px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_8" data-name="Path 8" class="cls-1" d="M16.744-26.193H46.3V-55.748H16.744Z"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-1" width="29.555" height="29.555" transform="translate(0 -29.555)"/>
+    </clipPath>
+    <pattern id="pattern" width="1" height="1" viewBox="0 0 29.555 29.555">
+      <image preserveAspectRatio="none" width="29.555" height="29.555" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAABK5JREFUeJzt3L1uFFcchvF315FFsEUZKiokmhSxjdwlfCkFuQO4Dwp3S0UFd+BrQEoDTYpEFBQIxymQ0kQgygghIbCshMhPipkjL5Z3dz7PmfV5fxLNijOcM/8HvBrtIpmZmZmZmZmZmZmZmZmZmZmZmZmZmdlyG518Afha0rakLUkbkv6WtCfpxWg0+ivu9roHjFWca6v8JRXn25O0PxqNjlLtrSvAZR3P8BtJ+zqe4eG8hbeAN8y2C1yIcooeAJeBZ3PO96y8eUsJuFDOaJY3wK1Zix8BR3MWB2+Bzchnaw24A3yqcL5PwJ3U+60L2Cxns8gR8Ojk4rsVFk77EziX6Ky1AVeAgxrnOwCupN53VcC5ciZ13A2LLwLvai4GeJj43JUAK8DzBud7Dqyk3n8VwMMG53sHXBSw02AxwD/AaurDLwJcb3g+gOup978IsFrOoomdsYp3i02sSvquw7P0ZWvxb+llbSzfqphFE9ttAlDLtbGc9QDa7HF7LOl8iwsM/keATnnWEWltLG1mcH4s6VWLC7xosTaWXxOtjWWvxdpXY0kvGy7+T9LvLf7wWH5LtDaWP1TMoomXAi4Bhw3eQe52eYo+Aa8bnO916n1Xxfynf7McApfCBR7UXPyWJXokDFwFPtY430fgaup9V0XxCLjKU8BpD6YvsEK9iu4lPG8jwG3gc4WzfQZup95vXcC9GvPb5bSHXBQPhd5XuMABcDPBOVsBHlc42+PU+6wLuEm1R93vgZ1FF1sDJmctAuB+hTMF91Pvt6oaw58Aa1UvulHxRi1FBDWHvzQR1Bg+wEadC1cNAAYeAc2GHww2AuoNH3oMgHIjN3o8byO0G34wuAiAG9QbPvQcAAwsAroZfjCYCGg2fIgQAAwkArodfpA8ApoPHyIFAIkjoJ/hB8kioN3wIWIAlBuN/mEK+h1+ED0Cig+1tBk+RA4Aig9XRouAOMMPokVAMfwqH2ZdJHoAECkC4g4/6D0Cuhs+JAoAeo6ANMMPeouAbocPCQOA4iDXerhJKYcfdB4BcI1uhw8zAhh3vfkZ1iQ9ocMIyhs/6ep6LUy6jKC8R09U3LPexQpA6jCCAQ0/6CSC2MOX4gYgdRDBAIcftIogxfCl+AFILSIY8PCDRhGkGr6UJgDpOIIfqi5YguEHtSIo70GS4UvpApCKAz+tEsESDT+oFEF59qdKNHwpbQBShX8JlnD4wdwIUv/ND1IHIEnrmhHBEg8/ODWCqeGvx9/Sl4YQgHQcwffhhTMw/OCLCMozDmL4kvRV6g1MWVfxnuAnST/qbAw/mACS9IuKn/mDGL4048uP5WPDVF/7+lfL8aXTJlKebXM0Gu2ffHEoPwKmndXhSwM82xADsIgcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOYcQOZm/XfxHyT9HHMj1rsPqTdgZmZmZmZmZmZmZmZmZmZmZmZmZmZmffgfnUiBiW1GdwMAAAAASUVORK5CYII="/>
+    </pattern>
+    <clipPath id="clip-path-3">
+      <path id="Path_11" data-name="Path 11" class="cls-1" d="M0-78.4H260.892V0H0Z"/>
+    </clipPath>
+  </defs>
+  <g id="Group_247" data-name="Group 247" transform="translate(0 78.402)">
+    <g id="Group_21" data-name="Group 21" class="cls-2">
+      <g id="Group_20" data-name="Group 20" transform="translate(46.299 -26.193) rotate(-90)">
+        <g id="Group_19" data-name="Group 19" class="cls-3">
+          <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-4" width="29.555" height="29.555" transform="translate(0 -29.555)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_24" data-name="Group 24" class="cls-5">
+      <text id="MEMEKING" class="cls-6" transform="translate(79.029 -22.484)"><tspan x="0" y="0">MEMEKING</tspan></text>
+      <g id="Group_22" data-name="Group 22" transform="translate(68.941 -42.432)">
+        <path id="Path_9" data-name="Path 9" class="cls-7" d="M0,0A32.971,32.971,0,0,1-32.971,32.971,32.971,32.971,0,0,1-65.941,0a32.971,32.971,0,0,1,32.97-32.971A32.971,32.971,0,0,1,0,0Z"/>
+      </g>
+      <g id="Group_23" data-name="Group 23" transform="translate(41.204 -27.54)">
+        <path id="Path_10" data-name="Path 10" class="cls-8" d="M0,0-15.206-13.347-.052-26.868,11.127-12.986Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+body{
+    background-image: url(img/backgroundImg.png);
+
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-image: url(img/backgroundImg.png) no-repeat;
+    background-size: 100% 100%;
+
+
+}
+
+header{
+    background-color: black;
+    height: 80px;
+}
+
+.navBar{
+    text-decoration: none;
+}
+
+.navUl{
+    float: right;
+    margin-top: 35px;
+    margin-right: 100px;
+}
+
+.navUl li{
+    display: inline-block;
+}
+
+.navA {
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+}
+
+.navLogo{
+    float: left;
+    height: 45px;
+    width: auto;
+    margin-top: 15px;
+    margin-left: 100px;
+}

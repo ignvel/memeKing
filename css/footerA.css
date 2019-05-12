@@ -1,0 +1,32 @@
+footer{
+    background-color: black;
+    height: 80px;
+}
+
+.footerNavBar{
+    text-decoration: none;
+}
+
+.footerNavUl{
+    float: right;
+    margin-top: 35px;
+    margin-right: 100px;
+}
+
+.footerNavUl li{
+    display: inline-block;
+}
+
+.footerNavA {
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+}
+
+.footerNavLogo{
+    float: left;
+    height: 45px;
+    width: auto;
+    margin-top: 15px;
+    margin-left: 100px;
+}

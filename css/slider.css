@@ -1,0 +1,37 @@
+.sliderMain div{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 10px;
+  }
+  
+.sliderMain{
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+.sliderButton{
+    position: relative;
+  }
+
+div.sliderMain div.sliderButtonL{
+  padding-right: 40px;
+}
+
+div.sliderMain div.sliderButtonR{
+  padding-left: 40px;
+}
+
+.sliderImg{
+    height: 350px;
+    width: 900px;
+  }
+
+.sliderButtonLeft{
+  height: 50px;
+  width: 50px;
+}
+
+.sliderButtonRight{
+  height:  50px;
+  width: 50px;
+}

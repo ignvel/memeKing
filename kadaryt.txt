@@ -1,0 +1,6 @@
+HEADER
+1.Padaryt background juoda
+2.padaryt kad sumazinus ekrana pasikeistu i isskleidziama nav
+3.pastatyti nav ten kur jai reikia but
+4.pastatyt logo kur jam reik but
+5.padaryt onhold visiem elementam isskyrus logo

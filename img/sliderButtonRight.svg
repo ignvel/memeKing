@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 79 79">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.83;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <g id="Group_216" data-name="Group 216" class="cls-1">
+    <image id="Rectangle_97" data-name="Rectangle 97" width="32.678" height="32.678" transform="translate(18.385 57.499) rotate(-90)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAQAAABpN6lAAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAADdcAAA3XAUIom3gAAAAHdElNRQfiDAsNHTRTqXHTAAADaUlEQVR42u2ZsUojURSGf5NFXIWUa2Ul2GyxMZJOjbHyEfQ9LNJpZaVvkGcQ9g12sbAQs24h2CyK5SKCJEFcxdkiuJsx997M3HvuHMT/myZwRs//f4kyMwEIIYQQQgghhBBCCCGEvB8m/r36iDpqqOI3OjjBr+ibS6iihhqADjo4w3P0jfOoo4ZPOEMHJ7hPD9dxhWToaKMSOcxRat8R5qPuq6Cd2neF9eHxAZ5T4wQJrrEYLc4meiP7etiMtm8R1yP7nnHwMt4aGQ6OC0xFibOAvnFfHwtR9k3hwtJwCwBmcWMZJ9iPEKeMY+u+Y5QjbNy37rvBLNCyjhM8YFI8TsOxL0FDfN8kHhz7WiXUnT/8RTxQLWDqw2fnm1h3C8CY6VsQ4P6N9RKmnSfI/wlMBEx9cDeYLuHcecKJeKBvAVMfOs7peQmnjvETfogH+h4w9eEnnhzTU2AO99b/kW3xOABwad13GWVf27rvHnMAsGcZX0e6HF5C17ivi6Uo+yqG68DBsTc4oWxxtB0lDgBs4HFk2yM2ou3btny+hy67Wrg1XJo2o0U6HNl2GG1X03DpfYvW69NmsFOYgl3jO7JbWP0dzJhOrRpvUOQVmOvHUdA03nhVzSdXjaGkFdjryytoWu47cwlI0MdaQfVlFaxZ6ucWIKdgfH05Bfb6HgJkFGSrL6PAVd9LQLiC7PXDFbjrewpI0A94XJGvfpiCxpj63gIS9DwV5K/vr6BheOAqJsBPgV99PwVZ6gcJyK/Av35+BdnqBwpI0MNqQfXzKVjNWD9YQHYF4fWzK8heX0BANgUy9bMpyFNfRMB4BXL1xyvIV19IgFuBbH23grz1xQQk6GGloPp2BSu56wsKMCuIU9+swKe+qIAE3VcK4tUfVbBiebxaqIC0grj10wp864sLSNDFckH1/ytY9q4fQcBAQTH1BwpC6qcETKQEhHwR9ifCF6mxti3i7OVlSSxSkfUFt8kJeKNQgHYAbShAO4A2FKAdQBsK0A6gDQVoB9CGArQDaEMB2gG0oQDtANpQgHYAbShAO4A2FKAdQBsK0A6gDQVoB9CGArQDaEMB2gG0oQDtANpQgHYAbShAO4A2FKAdQBsK0A6gDQVoB9Dm3Qv4MPT6Dl+14xTEnXYAQgghhBBCCCGEEEIIITr8BfyHg9HOOei1AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTEyLTExVDEzOjI5OjUyKzAxOjAwGFh5MQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0xMi0xMVQxMzoyOTo1MiswMTowMGkFwY0AAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwaAAAAAElFTkSuQmCC"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="36.5" cy="36.5" r="36.5" transform="translate(3 3)"/>
+    <path id="Path_83" data-name="Path 83" d="M45.3,56,28.5,41.2,45.3,26.3,57.6,41.6Z"/>
+  </g>
+</svg>

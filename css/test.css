@@ -1,0 +1,13 @@
+.sliderMain div{
+  display: inline-block;
+  vertical-align: middle;
+  padding: 10px;
+}
+
+.sliderMain{
+  text-align: center;
+}
+
+.sliderButton{
+  position: relative;
+}

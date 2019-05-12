@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>meme</title>
+    <!--links-->
+    <link rel="stylesheet" href="css/header.css"> 
+    <link rel="stylesheet" href="css/mainText.css"> 
+    <link rel="stylesheet" href="css/komentarai.css"> 
+    <link rel="stylesheet" href="css/slider.css"> 
+    <link rel="stylesheet" href="css/footer.css"> 
+    <link rel="stylesheet" href="css/footerA.css"> 
+
+    <style>
+        body{
+            min-width: 900px;
+            max-width: 2000px;
+            background-color: 50% white 50% black
+        }
+    </style>
+
+</head>
+<body>
+    <!-- visas virsus  -->
+    <header>
+        
+        <nav class="navBar">
+            
+            <div>
+                <div>
+                    <img class="navLogo" src="img/logoLogo.png">
+                </div>
+            <ul class="navUl">
+                <li>
+                    <a class="navA" href="#">LOGIN</a>
+                </li>
+                <li>
+                    <a class="navA" href="#">REGISTER</a>
+                </li>
+                <li>
+                    <a class="navA" href="#">FOLLOW US ON</a>
+                </li>
+                <li>
+                    <a class="navA" href="#">lg</a>
+                </li>
+                <li>
+                    <a class="navA" href="#">lg</a>
+                </li>
+                <li>
+                    <a class="navA" href="#">lg</a>
+                </li>
+            </ul>
+        </div>
+        </nav>
+    </header>
+    <!-- CENTRINIS TEXTAS  -->
+    <div class="mainTextCrownDiv">
+        <img class="mainTextCrown" src="img\mainCrown.png">
+    </div>
+    
+    <div class="mainTextDiv">
+        <h1 class="mainTextH1">MEMEKING 2017 BEST MEMES</h1>
+    </div>
+
+
+
+    <!--SLIDER-->
+    
+            <div class="sliderMain">
+
+                <div class="sliderButtonL" > <!--Atgal meme reikia-->
+                    <a type="button" class="prev" onclick="changeImageBack()"> 
+                        <img src="img/sliderButtonLeft.svg" class="sliderButtonLeft" >
+                    </a>
+                </div>
+        
+                <div class="sliderImgDiv">
+                    <img name='slide' src="testImg/0.jpg" class="sliderImg">
+                </div>
+        
+                <div class="sliderButtonR">
+                    <a type="button" class="prev" onclick="changeImage()">
+                        <img src="img/sliderButtonRight.svg" class="sliderButtonRight">
+                    </a> 
+                </div>
+        
+            </div>
+
+    <!-- komentarai  -->
+    <h2>COMMENTS</h2>
+    <div class="komentaruDivas">
+        <div id="divasIsHtmlSkriptoVietai"></div>
+        <div class="addComment">
+        <div class="commentInput"><input type="text" id="inputas"></div>
+        <div class="commentButton"><button onclick="inputoTustumoTikrinimas()">Prideti komentara</button></div>
+        </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    </div>
+    <!-- footeris, apatinis nav ir textas po jio  -->
+    <footer class="footer">
+        <nav class="footerNavBar">
+            
+            <div>
+                <div>
+                    <img class="footerNavLogo" src="img/logoLogo.png">
+                </div>
+                <ul class="footerNavUl">
+                    <li>
+                        <a class="footerNavA" href="#">2018 BEST MEMES</a>
+                    </li>
+                    <li>
+                        <a class="footerNavA" href="#">2017 BEST MEMES</a>
+                    </li>
+                    <li>
+                        <a class="footerNavA" href="#">FOLLOW US ON</a>
+                    </li>
+                    <li>
+                        <a class="footerNavA" href="#">lg</a>
+                    </li>
+                    <li>
+                        <a class="footerNavA" href="#">lg</a>
+                    </li>
+                    <li>
+                        <a class="footerNavA" href="#">lg</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
